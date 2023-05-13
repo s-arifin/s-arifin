@@ -13,9 +13,9 @@
 - 💞️ I’m looking to collaborate on:
 SkyTrends: I'm open to collaborations that can make this project a go-to hub for all aviation enthusiasts.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📫 How to reach me ...
-LinkedIn: www.linkedin.com/in/s-arifin
-Twitter: https://twitter.com/s__arifin
-Email: shamsularifin229@gmail.com
+- 📫 How to reach me:
+- LinkedIn: www.linkedin.com/in/s-arifin
+- Twitter: https://twitter.com/s__arifin
+- Email: shamsularifin229@gmail.com
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -⚡ Fun fact: I might or might not learn PHP! The future is an open book.
