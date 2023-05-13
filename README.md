@@ -2,14 +2,14 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 - 🔭 I’m currently working on:
 1. SkyTrends: https://www.skytrends.co.uk/ (A website for aviation enthusiasts)
-2. https://www.stealthaiguard.com/ (A magic tool for you all!)
+2. StealthAIGuard: https://www.stealthaiguard.com/ (A magic tool for you all!)
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 - 🌱 I’m currently learning:
 1. Advanced Web Development.
 2. UI Design with React.js.
 3. Backend Development with Node.js and Express.js.
 4. Database Management with MongoDB.
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 💞️ I’m looking to collaborate on:
 SkyTrends: I'm open to collaborations that can make this project a go-to hub for all aviation enthusiasts.
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
