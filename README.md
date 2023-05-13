@@ -11,7 +11,7 @@
 4. Database Management with MongoDB.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 💞️ I’m looking to collaborate on:
-SkyTrends: I'm open to collaborations that can make this project a go-to hub for all aviation enthusiasts.
+SkyTrends - I'm open to collaborations that can make this project a go-to hub for all aviation enthusiasts.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 📫 How to reach me:
 - LinkedIn: www.linkedin.com/in/s-arifin
